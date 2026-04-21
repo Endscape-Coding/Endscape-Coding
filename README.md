@@ -15,5 +15,3 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Linux_EN_OS)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Endscape-Coding)
-
-> *"Просто - не значит плохо."*
